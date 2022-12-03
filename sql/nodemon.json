@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "root",
+    "DB_PASSWORD": "Meothui@73269",
+    "DB_NAME": "node-complete",
+    "JWT_KEY": "zVJH40hMwPDxj9r4"
+  }
+}
